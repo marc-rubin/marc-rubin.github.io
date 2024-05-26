@@ -1,7 +1,7 @@
 # main links links
 main:
-    - title: "Toolkit"
-      url: /toolkit/
+    - title: "Macro Models"
+      url: /models/
 
     - title: "Case Studies"
       url: /casestudies/
